@@ -82,7 +82,7 @@ class QrViewModel(
     val smsMessage = MutableStateFlow("Hi! I scanned your branded QR code.")
 
     val socialPlatform = MutableStateFlow("GitHub")
-    val socialUsername = MutableStateFlow("google-ai-studio")
+    val socialUsername = MutableStateFlow("androiddev")
 
     // QR Style Configuration
     private val _styleConfig = MutableStateFlow(
