@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio",
+  "description": "Instant QR code scanner and brand QR generator with custom logo embedding, dark mode, export & sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
